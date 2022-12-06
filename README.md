@@ -1,5 +1,5 @@
 # event-mgmt
-event-mgmt project spring data rest
+event management project spring data rest
 
 *****
 
